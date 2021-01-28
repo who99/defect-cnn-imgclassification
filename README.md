@@ -29,6 +29,7 @@ CNN: type of neural network used for image classification, recognition, etc.
   - Importance of choosing a decent learning rate
   : When the accuracy and loss do not converge, changing the learning rate can help. Instead of using a constant learning rate, it is possible to change the learning rate according to the epoch by using the learning rate scheduler. In this case, the initial value of the learning rate was 0.00001 and exponential decay was used for scheduling.
   
+  
   <img width="613" alt="model_2" src="https://user-images.githubusercontent.com/78089713/106094877-22094480-6176-11eb-8f9c-168515604ec1.PNG">
 
 ###### * note: model still in progress
